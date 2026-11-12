@@ -182,17 +182,21 @@ O objetivo é simples e prático: eliminar a necessidade de soldar fios diretame
 
 ```
 SHIELD_PICO_TERMINAL_BLOCK/
-├── SHIELD_PICO_TERMINAL_BLOCK.kicad_pro   # Arquivo de projeto KiCad
-├── SHIELD_PICO_TERMINAL_BLOCK.kicad_sch   # Esquemático (KiCad 10)
+├── SHIELD_PICO_TERMINAL_BLOCK.kicad_pro   # Arquivo de projeto KiCad 10
+├── SHIELD_PICO_TERMINAL_BLOCK.kicad_sch   # Esquemático: capa A2 (índice das folhas)
+├── PICO.kicad_sch                         # Folha 02: Raspberry Pi Pico + furos M3
+├── BORNES.kicad_sch                       # Folha 03: bornes J1 / J2
 ├── SHIELD_PICO_TERMINAL_BLOCK.kicad_pcb   # Layout da PCB (KiCad 10)
 ├── SHIELD_PICO_TERMINAL_BLOCK.kicad_prl   # Configurações locais
-├── packages3D/                            # Modelos 3D arquivados
+├── SHIELD_PICO_TERMINAL_BLOCK.kicad_dru   # Regras customizadas (vazio: version 1)
+├── Zat_TitleBlock.kicad_wks               # Title block ZAT ELECTRONIC
+├── packages3D/                            # Modelos 3D arquivados (referência)
 │   ├── raspberry pi pico with contacts.step
 │   ├── 20-Pin Header - Female - 2.54mm.step
-│   └── DG306-5.0-20P-12-00AH.STEP
-├── fp-info-cache                          # Cache de footprints
+│   └── DG306-5.0-20P-12-00AH.step
 ├── imagem_1.png                           # Render 3D superior
 ├── imagem_2.png                           # Render 3D isométrico
+├── LEIA-ME_REVISAO_R01.md                 # O que mudou na revisão R01
 └── README.md
 ```
 

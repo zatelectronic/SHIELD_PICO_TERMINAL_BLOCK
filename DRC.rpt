@@ -1,0 +1,58 @@
+** Drc report for SHIELD_PICO_TERMINAL_BLOCK.kicad_pcb **
+** Created on 2026-11-12T09:59:14 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 11 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: configuração da serigrafia da placa; warning
+    @(111.5750 mm, 40.6000 mm): Rectangle on Edge.Cuts
+    @(138.0929 mm, 48.5005 mm): Value field of U1 (RASPBERRY_PI_PICO_H)
+[silk_overlap]: Silkscreen clearance
+    Rule: configuração da serigrafia da placa; warning
+    @(138.0929 mm, 48.5005 mm): Value field of U1 (RASPBERRY_PI_PICO_H)
+    @(137.0750 mm, 44.2262 mm): Segment of U1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: configuração da serigrafia da placa; warning
+    @(138.0929 mm, 48.5005 mm): Value field of U1 (RASPBERRY_PI_PICO_H)
+    @(137.0750 mm, 45.3362 mm): Arc of U1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.0929 mm, 48.5005 mm): Value field of U1 (RASPBERRY_PI_PICO_H)
+    @(137.6850 mm, 63.4862 mm): PTH pad 8 [GND] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.0929 mm, 48.5005 mm): Value field of U1 (RASPBERRY_PI_PICO_H)
+    @(137.6850 mm, 60.9462 mm): PTH pad 7 [GP5] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.0929 mm, 48.5005 mm): Value field of U1 (RASPBERRY_PI_PICO_H)
+    @(137.6850 mm, 58.4062 mm): PTH pad 6 [GP4] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.0929 mm, 48.5005 mm): Value field of U1 (RASPBERRY_PI_PICO_H)
+    @(137.6850 mm, 55.8662 mm): PTH pad 5 [GP3] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.0929 mm, 48.5005 mm): Value field of U1 (RASPBERRY_PI_PICO_H)
+    @(137.6850 mm, 53.3262 mm): PTH pad 4 [GP2] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.0929 mm, 48.5005 mm): Value field of U1 (RASPBERRY_PI_PICO_H)
+    @(137.6850 mm, 50.7862 mm): PTH pad 3 [GND] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.0929 mm, 48.5005 mm): Value field of U1 (RASPBERRY_PI_PICO_H)
+    @(137.6850 mm, 48.2462 mm): PTH pad 2 [GP1] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.0929 mm, 48.5005 mm): Value field of U1 (RASPBERRY_PI_PICO_H)
+    @(137.6850 mm, 45.7062 mm): PTH pad 1 [GP0] of U1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - None
+
+** End of Report **
