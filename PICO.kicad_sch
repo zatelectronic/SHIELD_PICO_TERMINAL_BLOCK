@@ -2771,25 +2771,23 @@
 		(fields_autoplaced yes)
 		(uuid "193d971c-ce75-4912-bde7-a0b746113823")
 		(property "Reference" "H2"
-			(at 237.49 73.6601 0)
+			(at 240.03 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "MountingHole_M3"
-			(at 237.49 71.1201 0)
+			(at 240.03 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO14580"
@@ -3086,7 +3084,7 @@
 		(fields_autoplaced yes)
 		(uuid "2f50c6f3-8e97-4c70-a4b0-446c3a87eef6")
 		(property "Reference" "H3"
-			(at 259.08 73.6601 0)
+			(at 264.16 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3097,7 +3095,7 @@
 			)
 		)
 		(property "Value" "MountingHole_M3"
-			(at 259.08 71.1201 0)
+			(at 264.16 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3326,13 +3324,14 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 146.05 172.72 0)
+			(at 147.955 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -3547,7 +3546,7 @@
 		(fields_autoplaced yes)
 		(uuid "9abe7cbd-12f8-435c-8989-6b147e2bec37")
 		(property "Reference" "H4"
-			(at 284.48 73.6601 0)
+			(at 289.56 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3558,7 +3557,7 @@
 			)
 		)
 		(property "Value" "MountingHole_M3"
-			(at 284.48 71.1201 0)
+			(at 289.56 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3700,25 +3699,23 @@
 		(fields_autoplaced yes)
 		(uuid "f75562db-1f80-4b23-a038-b996d68995b6")
 		(property "Reference" "H1"
-			(at 215.9 73.6601 0)
+			(at 218.44 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "MountingHole_M3"
-			(at 215.9 71.1201 0)
+			(at 218.44 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO14580"
